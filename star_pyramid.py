@@ -1,3 +1,4 @@
+print("\tSTAR PYRAMID PROGRAM")
 x = int(input("Enter The Height : "))
 y = int(x)
 for i in range(0, x):
