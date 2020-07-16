@@ -6,6 +6,6 @@ for i in range(0, x):
         print(" ",end="")
     y -= 1
     for k in range(0,i+1):
-        print("^",end=" ")
+        print("*",end=" ")
     if(i!=x-1):
         print("")
